@@ -1,5 +1,6 @@
 # JavaProjects
 A little part of the projects I coded in my first year at Imperial using Java.
+I chose a nice selection ranging from simpler projects to code that I personally found challenging at the time (javasocial.zip).
 Java is the second language I studied at Imperial, after Haskell.
 The topics covered in the uploaded files vary a lot: from frunctional programming (javafunctionalprogramming.zip)
 to working with class inheritance, interfaces and generalisation (javadiscreteeventsimulation.zip), from concurrency to complex structures.
